@@ -56,7 +56,7 @@ class H1Haxor:
     def say_hi(self):
         print("Thanks for dropping by! Let's hack the planet together!")
 
-me = H1Haxor()
+me = d1D3m0n()
 me.say_hi()
 ```
 
