@@ -34,17 +34,17 @@
 <h2 align="center"> 📈 GitHub Stats </h2>
 
 <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=h1-haxor&theme=dark&hide_border=true"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=d1-d3m0n&theme=dark&hide_border=true"/>
 </p>
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=h1-haxor&show_icons=true&theme=radical"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=d1-d3m0n&show_icons=true&theme=radical"/>
 </p>
 
 <h2 align="center">🎯 Skills </h2>
 
 ```python
-class H1Haxor:
+class D1D3m0n:
     def __init__(self):
         self.name = "d1-d3m0n"
         self.role = "Ethical Hacker"
@@ -56,7 +56,7 @@ class H1Haxor:
     def say_hi(self):
         print("Thanks for dropping by! Let's hack the planet together!")
 
-me = d1D3m0n()
+me = d1d3m0n()
 me.say_hi()
 ```
 
