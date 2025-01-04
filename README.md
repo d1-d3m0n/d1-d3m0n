@@ -46,11 +46,11 @@
 ```python
 class H1Haxor:
     def __init__(self):
-        self.name = "h1-haxor"
+        self.name = "d1-d3m0n"
         self.role = "Ethical Hacker"
         self.language_spoken = ["en_US"]
-        self.code = ["Python", "Bash", "PHP", "SQL"]
-        self.tools = ["Burp Suite", "Metasploit", "Nmap", "Wireshark"]
+        self.code = ["Python", "Bash", "SQL", "GO", "HTML", "CSS", "Javascript", "Assembly", "Powershell", "C/C++"]
+        self.tools = ["Burp Suite", "Metasploit", "Nmap", "Wireshark", "Scapy"]
         self.areas = ["Web Pentesting", "Network Security", "Malware Analysis"]
         
     def say_hi(self):
@@ -63,13 +63,13 @@ me.say_hi()
 <h2 align="center">🌐 Connect with me</h2>
 
 <p align="center">
-    <a href="https://twitter.com/h1_haxor">
+    <a href="https://twitter.com/devesh_h_">
         <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
     </a>
-    <a href="https://github.com/h1-haxor">
+    <a href="https://github.com/d1-d3m0n">
         <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
     </a>
-    <a href="https://linkedin.com/in/h1-haxor">
+    <a href="https://linkedin.com/in/dev-shishodia">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
     </a>
 </p>
