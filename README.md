@@ -44,14 +44,14 @@
 <h2 align="center">🎯 Skills </h2>
 
 ```python
-class D1D3m0n:
+class d1_d3m0n:
     def __init__(self):
         self.name = "d1-d3m0n"
         self.role = "Ethical Hacker"
         self.language_spoken = ["en_US", "Hindi", "German"]
         self.code = ["Python", "Bash", "SQL", "GO", "HTML", "CSS", "Javascript", "Assembly", "Powershell", "C/C++"]
-        self.tools = ["Burp Suite", "Metasploit", "Nmap", "Wireshark", "Scapy"]
-        self.areas = ["Web Pentesting", "Network Security", "Malware Analysis"]
+        self.tools = ["Burp Suite", "Metasploit", "Nmap", "Wireshark", "Scapy", "Nesus", "Owasp-Zap"]
+        self.areas = ["Web Pentesting", "Network Security", "Malware Analysis", "Malware Development"]
         
     def say_hi(self):
         print("Thanks for dropping by! Let's hack the planet together!")
