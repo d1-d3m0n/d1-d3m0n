@@ -56,7 +56,7 @@ class d1_d3m0n:
     def say_hi(self):
         print("Thanks for dropping by! Let's hack the planet together!")
 
-me = d1d3m0n()
+me = d1_d3m0n()
 me.say_hi()
 ```
 
