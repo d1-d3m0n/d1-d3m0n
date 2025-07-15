@@ -50,7 +50,7 @@ class d1_d3m0n:
         self.role = "Ethical Hacker"
         self.language_spoken = ["en_US", "Hindi", "German"]
         self.code = ["Python", "Bash", "SQL", "GO", "HTML", "CSS", "Javascript", "Assembly", "Powershell", "C/C++"]
-        self.tools = ["Burp Suite", "Metasploit", "Nmap", "Wireshark", "Scapy", "Nesus", "Owasp-Zap"]
+        self.tools = ["Burp Suite", "Metasploit", "Nmap", "Wireshark", "Scapy", "Nessus", "Nuclei", "Owasp-Zap"]
         self.areas = ["Web Pentesting", "Network Security", "Malware Analysis", "Malware Development"]
         
     def say_hi(self):
@@ -76,7 +76,7 @@ me.say_hi()
 
 <h2 align="center">⚡ Visitor Count</h2>
 <p align="center"> 
-    <img src="https://profile-counter.glitch.me/h1-haxor/count.svg" />
+    <img src="https://profile-counter.glitch.me/d1-d3m0n/count.svg" />
 </p>
 
 <div align="center">
